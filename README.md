@@ -1,2 +1,2 @@
 # training-js
-exercise for havascript
+JavaScript para QA
